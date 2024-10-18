@@ -2,13 +2,7 @@
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
-- 🔭 I’m currently working on [Kamel Travel](https://github.com/ismaelaek/travel)
-
-- 🌱 I’m currently learning **Laravel and MongoDB**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **ismailaitelkamel@gmail.com**
+- 📫 Let's collaborate **ismailaitelkamel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

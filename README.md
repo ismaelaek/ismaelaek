@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Ait El Kamel</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
+<h3 align="center">A passionate web developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 - 📫 Let's collaborate **ismailaitelkamel@gmail.com**
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelaek&show_icons=true&locale=en&layout=compact" alt="ismaelaek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelaek&show_icons=true&locale=en" alt="ismaelaek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelaek&" alt="ismaelaek" /></p>
